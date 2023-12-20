@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.container{
+    color: #fff;
+    font-size: 60px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+.div{
+    display: inline-block;
+}
